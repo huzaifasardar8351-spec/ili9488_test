@@ -11,7 +11,7 @@
 #include "lvgl.h"
 #include "lvgl_port.h"
 #include "ui.h"
-
+//understanding version control
 #define TAG "ILI9488"
 
 /* ===== PIN CONFIG (ESP32 DevKit V1) ===== */
