@@ -1,0 +1,2 @@
+source D:/ESP_IDF_Projects/ili9488_test/build/bootloader/gdbinit/symbols
+source D:/ESP_IDF_Projects/ili9488_test/build/bootloader/gdbinit/connect
